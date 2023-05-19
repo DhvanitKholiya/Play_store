@@ -1,10 +1,10 @@
-# PlayStore
+# Play_Store
 
-Android PlayStore
+Complete Android PlayStore Projrct.
 
 ## ScreenShot
 
-<img src = "https://user-images.githubusercontent.com/122794880/213927112-52619907-856e-4ba8-8ace-0661750de9cc.jpeg" height="500px"/> |
-<img src = "https://user-images.githubusercontent.com/122794880/213927172-a1fbe1e0-4abb-4abb-b324-88d66aca7170.jpeg" height="500px"/> | 
-<img src = "https://user-images.githubusercontent.com/122794880/213927174-3f330064-53e9-4770-b966-e19d6e9aedcf.jpeg" height="500px"/> |
-<img src = "https://user-images.githubusercontent.com/122794880/213927176-9f599212-81f3-4bd8-895a-99eb75b1685d.jpeg" height="500px"/>
+<img src = "https://github.com/DhvanitKholiya/Play_store/assets/121153074/62c0fe54-f3d1-4b8c-9c42-807f0577bb3f"/> |
+<img src = "https://github.com/DhvanitKholiya/Play_store/assets/121153074/e56e979a-626e-4321-99cf-a8316c7ee8b7"/> |
+<img src = "https://github.com/DhvanitKholiya/Play_store/assets/121153074/1208fb63-9295-41f1-850f-4dbb287b0f28"/> 
+
